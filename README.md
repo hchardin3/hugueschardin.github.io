@@ -7,7 +7,8 @@
 **Graduate Research Assistant (GRA) @ Aerospace System Design Laboratory, Georgia Institute of Technology (August 2022 - May 2024)**
 - Developed an optimized ConOps algorithm to manage a delivery UAM fleet in urban and semi-urban environment.
 - Deployed an advanced ML-based tool to enhance flight safety insight detection in civil aviation.
-- Build a ROS2-based autonomous precision-landing framework for a UASV to land onto a moving USV.
+- Conceived an advanced decision-making enhancement tool based on enterprise-architecture modeling & simulation. 
+- Built a ROS2-based autonomous precision-landing framework for a UASV to land onto a moving USV.
 
 ## Projects
 ### [RobotX](https://github.com/gt-marine-robotics-group/robotx_ros2_ws)
