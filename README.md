@@ -20,5 +20,5 @@
 
 ### [C++-based 3D Renderer](https://github.com/hchardin3/3DRenderer)
 - 3D renderer software to represent complex objects in a 3D environment.
-- Thought as a fun project to self-learn C++.
+- Thought as a fun project to self-learn C++ (syntax, Object-Oriented Programming, hpp and cpp files, make files...).
 - Still working on it.
