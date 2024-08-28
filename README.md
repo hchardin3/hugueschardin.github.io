@@ -25,5 +25,5 @@
 - Still working on it.
 
 ### [Reinforcement Learning Agent for Snake Game](https://github.com/hchardin3/Snake)
-- Pythond-based Deep Q Learning agent that lears to optimally play snake game.
+- Python Torch-based Deep Q Learning agent that lears to optimally play snake game.
 - Real-time game interface to see the agent interact with the game and learn.
