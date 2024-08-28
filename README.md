@@ -1,4 +1,4 @@
-# GNC/Robotics Software Engineer
+# Robotics Software Engineer
 ## Education
 - M.Eng, General Engineering | Centrale Supelec, Gif-sur-Yvette, France (_May 2024_)
 - M.S, Aerospace Engineering | Georgia Institute of Technology, Atlanta, Georgia (_May 2024_)
@@ -23,3 +23,7 @@
 - 3D renderer software to represent complex objects in a 3D environment.
 - Thought as a fun project to self-learn C++ (syntax, Object-Oriented Programming, hpp and cpp files, make files...).
 - Still working on it.
+
+### [Reinforcement Learning Agent for Snake Game](https://github.com/hchardin3/3DRenderer](https://github.com/hchardin3/Snake)
+- Pythond-based Deep Q Learning agent that lears to optimally play snake game.
+- Real-time game interface to see the agent interact with the game and learn.
