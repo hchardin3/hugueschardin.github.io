@@ -27,3 +27,7 @@
 ### [Reinforcement Learning Agent for Snake Game](https://github.com/hchardin3/Snake)
 - Python Torch-based Deep Q Learning agent that lears to optimally play snake game.
 - Real-time game interface to see the agent interact with the game and learn.
+
+### [LinalgCPP](https://github.com/hchardin3/LinalgCPP)
+- A custom Linear Algebra tool I made to have a comprehensive set of algebra tools on C++.
+- Allows to easily create and manipulate matrices and vectors, and to perform operations on them.
